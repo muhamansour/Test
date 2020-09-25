@@ -1,0 +1,4 @@
+module amodule {
+}
+
+//prueba A
