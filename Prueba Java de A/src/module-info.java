@@ -1,4 +1,4 @@
 module amodule {
 }
 
-//prueba A 1 
+//prueba A 1 en A 
